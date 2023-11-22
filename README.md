@@ -1,5 +1,5 @@
 # FFXI-Custom-Maps
-A collection of FFXI maps that I've customized to include more information and/or upscaled if an HD version wasn't already available.  For maps I did not create from scratch, credit goes to the Remapster([https://github.com/Shirk/XIPivot](https://remapster.com/)) for their amazing HD maps.
+A collection of FFXI maps that I've customized to include more information and/or upscaled if an HD version wasn't already available.  For maps I did not create from scratch, credit goes to the Remapster(https://remapster.com/) for their amazing HD maps.
 
 ## Installation
 ### Preferred Method:
