@@ -8,7 +8,7 @@ The interior Sky maps have not been remastered yet so I upscaled them and redrew
 
 ## Installation
 ### Preferred Method:
-Download your preferred map pack by clicking on the green `Code` button and then click `Download zip`.  Open up the `FFXI-Custom-Maps-main` folder and then move the map folder within into your [XIPivot](https://github.com/Shirk/XIPivot) `DATs` folder.  If using the HorizonXI launcher, navigate to `Settings` and then `Pivot` and enable the map DAT.  If using Ashita standalone, you can automatically load these by adding `/pivot add sky-hd-maps` to `./scripts/default.txt`.  Once in game type `/pivot` and be sure the map dat is loaded above any other maps dats you might have.
+Download your preferred map pack by clicking on the green `Code` button and then click `Download zip`.  Open up the `FFXI-Custom-Maps-main` folder and then move the map folder within into your [XIPivot](https://github.com/Shirk/XIPivot) `DATs` folder.  If using the HorizonXI launcher, navigate to `Settings` and then `Pivot` and enable the map DAT.  If using Ashita standalone, you can automatically load these by adding `/pivot add [map name]` to `./scripts/default.txt`.  Once in game type `/pivot` and be sure the map dat is loaded above any other maps dats you might have.
 
 ### Manual Method:
 Copy `ROM` folder to your `./FINAL FANTASY XI` directory and choose "Yes" when prompted to overwrite.  
