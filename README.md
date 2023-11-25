@@ -5,6 +5,8 @@ A collection of FFXI maps that I've customized to include more information and/o
 These maps are custom to the HorizonXI server to show the `???` locations of their custom HENM content.
 ### sky-hd-maps:
 The interior Sky maps have not been remastered yet so I upscaled them and redrew all the custom stuff from Drauku's [Vision](https://github.com/Drauku/FFXI-Vision) maps.
+### remapster-enhanced:
+These are 1024x1024 Remapster maps that someone customized to include extra information such as landmarks and NM locations.  I'm not sure who made these as they are no longer available from the original creator.  I did not customize these in any way I'm just including them here for safe keeping.
 
 ## Installation
 ### Preferred Method:
